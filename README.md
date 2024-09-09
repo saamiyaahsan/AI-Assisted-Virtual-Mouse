@@ -1,4 +1,7 @@
-# PROJECT FLOW
+# Major Project
+## Topic : AI Assisted Virtual Mouse
+
+## PROJECT FLOW
 
 ## Steps required before the execution of application:
 
